@@ -95,3 +95,15 @@ To help make sense of the data, we have produced four indices that aggregate the
 | 4 | Transit stations percent change from baseline |
 | 5 | Workplaces percent change from baseline |
 | 6 | Residential percent change from baseline |
+
+### DBSCAN_clusters_dict.npy
+
+To analyse differences and anomalies between countries, countries are divided on clusters using DBSCAN algorithm from scikit-learn. Keys are countries, and values are 6 possible clusters. In order to load file use: 
+
+np.load('DBSCAN_clusters_dict.npy', allow_pickle='TRUE').item()
+
+### TDA_clusters_dict.npy
+
+To analyse differences and anomalies between countries, countries are divided on clusters using Mapper method. Keys are countries, and values are 9 possible clusters. In order to load file use:
+
+np.load('TDA_clusters_dict.npy', allow_pickle='TRUE').item()
