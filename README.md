@@ -101,11 +101,11 @@ To help make sense of the data, we have produced four indices that aggregate the
 
 Each on the anomaly dictionary is a layer on which TDA worked. We have four of them. 
 
-TDA_anomaly_dict_1. First anomaly layer is about strongest differences: class 2 is anomaly consist of 2 counriies, class 1 is all other similar countries. 
-TDA_anomaly_dict_2. Class 1 from TDA_anomaly_dict_1 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
-TDA_anomaly_dict_3. Class 1 from TDA_anomaly_dict_2 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
-TDA_anomaly_dict_4. Class 1 from TDA_anomaly_dict_3 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
+- TDA_anomaly_dict_1. First anomaly layer is about strongest differences: class 2 is anomaly consist of 2 counriies, class 1 is all other similar countries. 
+- TDA_anomaly_dict_2. Class 1 from TDA_anomaly_dict_1 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
+- TDA_anomaly_dict_3. Class 1 from TDA_anomaly_dict_2 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
+- TDA_anomaly_dict_4. Class 1 from TDA_anomaly_dict_3 form list of countries there. Class 1 is class of similar countries. All other are 'anomalies' in different classes.
 
-Inside the anomaly layer classes can be analysed both linearly (saving class number, which will mirror filtration score) and as dummies. 
+- Inside the anomaly layer classes can be analysed both linearly (saving class number, which will mirror filtration score) and as dummies. 
 
 np.load('TDA_anomaly_dict_1.npy', allow_pickle='TRUE').item()
