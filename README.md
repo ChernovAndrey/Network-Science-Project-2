@@ -99,6 +99,8 @@ To help make sense of the data, we have produced four indices that aggregate the
 
 ### TDA_anomaly_dict_1/2/3/4.npy
 
+TDA analyses was made on confirmed cases. 
+
 Each on the anomaly dictionary is a layer on which TDA worked. We have four of them. 
 
 - TDA_anomaly_dict_1. First anomaly layer is about strongest differences: class 2 is anomaly consist of 2 counriies, class 1 is all other similar countries. 
