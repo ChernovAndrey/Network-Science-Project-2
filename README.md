@@ -111,3 +111,13 @@ Each on the anomaly dictionary is a layer on which TDA worked. We have four of t
 - Inside the anomaly layer classes can be analysed both linearly (saving class number, which will mirror filtration score) and as dummies. 
 
 np.load('TDA_anomaly_dict_1.npy', allow_pickle='TRUE').item()
+
+
+### Graph embedings
+
+Graphs were created in 4 ways considering routes:
+undirG - undirected unweighted
+UndirwG - undirected weighted
+DirG - directed unweighted
+DirwG - directed weighted
+graphsembedings contains 20dim vec for each country for 4 graphs
