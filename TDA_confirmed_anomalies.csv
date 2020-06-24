@@ -1,0 +1,189 @@
+Country,TDA_anomaly_dict_1,TDA_anomaly_dict_2,TDA_anomaly_dict_3,TDA_anomaly_dict_4,TDA_final,TDA_final_code,TDA_final_short,TDA_final_short_code
+Afghanistan,1.0,1.0,1.0,9.0,"Rare infected, speed up in May",9,Outliers,6
+Albania,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Algeria,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Andorra,3.0,8.0,16.0,16.0,"Small Countries, infected early March",14,Outliers,6
+Angola,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Antigua and Barbuda,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Argentina,1.0,1.0,1.0,9.0,"Rare infected, speed up in May",9,Outliers,6
+Armenia,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Australia,1.0,1.0,1.0,14.0,"Small infected, stopped in April",8,Outliers,6
+Austria,3.0,1.0,11.0,16.0,Medium infection,11,Medium infection,5
+Azerbaijan,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Bahamas,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Bahrain,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Bangladesh,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Barbados,1.0,1.0,1.0,15.0,"Small infected, stopped in April",8,Outliers,6
+Belarus,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Belgium,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Belize,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Benin,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Bhutan,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Bolivia,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Bosnia and Herzegovina,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Botswana,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Brazil,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Brunei,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Bulgaria,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Burkina Faso,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Burma,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Burundi,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Cabo Verde,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Cambodia,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Cameroon,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Canada,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Central African Republic,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Chad,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Chile,3.0,1.0,15.0,16.0,"Medium infection, speed up in May",13,Outliers,6
+China,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Colombia,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Comoros,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Costa Rica,1.0,1.0,1.0,8.0,"Rare infected, stopped in April",5,Outliers,6
+Cote d'Ivoire,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Croatia,3.0,1.0,4.0,16.0,Medium infection,11,Medium infection,5
+Cuba,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Cyprus,3.0,1.0,4.0,16.0,Medium infection,11,Medium infection,5
+Czechia,3.0,1.0,5.0,16.0,Medium infection,11,Medium infection,5
+Democratic Republic of the Congo,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Denmark,3.0,1.0,8.0,16.0,Medium infection,11,Medium infection,5
+Diamond Princess,2.0,16.0,16.0,16.0,Ships,1,Quasi countries,0
+Djibouti,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Dominica,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Dominican Republic,3.0,1.0,6.0,16.0,Medium infection,11,Medium infection,5
+Ecuador,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Egypt,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+El Salvador,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Equatorial Guinea,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Eritrea,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Estonia,3.0,1.0,8.0,16.0,Medium infection,11,Medium infection,5
+Eswatini,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Ethiopia,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Fiji,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Finland,3.0,1.0,5.0,16.0,Medium infection,11,Medium infection,5
+France,3.0,1.0,14.0,16.0,Medium infection,11,Medium infection,5
+Gabon,3.0,1.0,5.0,16.0,Medium infection,11,Medium infection,5
+Gambia,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Georgia,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Germany,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+Ghana,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Greece,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Grenada,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Guatemala,1.0,1.0,1.0,9.0,"Rare infected, speed up in May",9,Outliers,6
+Guinea,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Guinea-Bissau,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Guyana,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Haiti,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Holy See,3.0,12.0,16.0,16.0,Holy See,0,Quasi countries,0
+Honduras,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Hungary,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Iceland,3.0,3.0,16.0,16.0,"Small Countries, infected early March",14,Outliers,6
+India,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Indonesia,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Iran,3.0,1.0,7.0,16.0,Medium infection,11,Medium infection,5
+Iraq,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Ireland,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Israel,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+Italy,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Jamaica,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Japan,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Jordan,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Kazakhstan,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Kenya,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Kosovo,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Kuwait,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Kyrgyzstan,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Laos,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Latvia,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Lebanon,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Lesotho,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Liberia,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Libya,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Liechtenstein,3.0,1.0,15.0,16.0,"Medium infection, speed up in May",13,Outliers,6
+Lithuania,3.0,1.0,4.0,16.0,Medium infection,11,Medium infection,5
+Luxembourg,3.0,4.0,16.0,16.0,"Small Countries, infected early March",14,Outliers,6
+MS Zaandam,2.0,16.0,16.0,16.0,Ships,1,Quasi countries,0
+Madagascar,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Malawi,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Malaysia,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Maldives,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+Mali,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Malta,3.0,1.0,7.0,16.0,Medium infection,11,Medium infection,5
+Mauritania,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Mauritius,1.0,1.0,1.0,12.0,"Small infected, stopped in April",8,Outliers,6
+Mexico,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Moldova,3.0,1.0,7.0,16.0,Medium infection,11,Medium infection,5
+Monaco,3.0,1.0,14.0,16.0,Medium infection,11,Medium infection,5
+Mongolia,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Montenegro,3.0,1.0,4.0,16.0,Medium infection,11,Medium infection,5
+Morocco,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Mozambique,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Namibia,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Nepal,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Netherlands,3.0,1.0,11.0,16.0,Medium infection,11,Medium infection,5
+New Zealand,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Nicaragua,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Niger,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Nigeria,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+North Macedonia,3.0,1.0,5.0,16.0,Medium infection,11,Medium infection,5
+Norway,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Oman,3.0,1.0,8.0,16.0,Medium infection,11,Medium infection,5
+Pakistan,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Panama,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+Papua New Guinea,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Paraguay,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Peru,3.0,1.0,15.0,16.0,"Medium infection, speed up in May",13,Outliers,6
+Philippines,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Poland,3.0,1.0,3.0,16.0,Medium infection,11,Medium infection,5
+Portugal,3.0,1.0,14.0,16.0,Medium infection,11,Medium infection,5
+Qatar,3.0,8.0,16.0,16.0,"Small Countries, infected early March",14,Outliers,6
+Republic of the Congo,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Romania,3.0,1.0,5.0,16.0,Medium infection,11,Medium infection,5
+Russia,3.0,1.0,9.0,16.0,Medium infection,11,Medium infection,5
+Rwanda,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Saint Kitts and Nevis,1.0,1.0,1.0,14.0,"Small infected, stopped in April",8,Outliers,6
+Saint Lucia,1.0,1.0,1.0,8.0,"Rare infected, stopped in April",5,Outliers,6
+Saint Vincent and the Grenadines,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+San Marino,3.0,15.0,16.0,16.0,"Small Countries, infected early March",14,Outliers,6
+Sao Tome and Principe,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+Saudi Arabia,3.0,1.0,7.0,16.0,Medium infection,11,Medium infection,5
+Senegal,1.0,1.0,1.0,7.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Serbia,3.0,1.0,6.0,16.0,Medium infection,11,Medium infection,5
+Seychelles,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Sierra Leone,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Singapore,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Slovakia,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Slovenia,3.0,1.0,4.0,16.0,Medium infection,11,Medium infection,5
+Somalia,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+South Africa,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+South Korea,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+South Sudan,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Spain,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Sri Lanka,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Sudan,1.0,1.0,1.0,4.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Suriname,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Sweden,3.0,1.0,14.0,16.0,Medium infection,11,Medium infection,5
+Switzerland,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Syria,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Taiwan,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Tajikistan,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+Tanzania,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Thailand,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Timor-Leste,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Togo,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Trinidad and Tobago,1.0,1.0,1.0,8.0,"Rare infected, stopped in April",5,Outliers,6
+Tunisia,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Turkey,3.0,1.0,8.0,16.0,Medium infection,11,Medium infection,5
+Uganda,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Ukraine,3.0,1.0,2.0,16.0,Small infection in the end of March,10,Small infection in the end of March,4
+United Arab Emirates,3.0,1.0,10.0,16.0,Medium infection,11,Medium infection,5
+United Kingdom,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+United States,3.0,2.0,16.0,16.0,The most infected,12,The most infected,7
+Uruguay,1.0,1.0,1.0,10.0,"Rare infected, speed4",6,"Rare infected, high speed",3
+Uzbekistan,1.0,1.0,1.0,5.0,"Rare infected, speed2",4,"Rare infected, slow speed",2
+Venezuela,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Vietnam,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+West Bank and Gaza,1.0,1.0,1.0,6.0,"Rare infected, speed3",7,"Rare infected, high speed",3
+Western Sahara,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Yemen,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
+Zambia,1.0,1.0,1.0,3.0,"Rare infected, speed1",3,"Rare infected, slow speed",2
+Zimbabwe,1.0,1.0,1.0,2.0,Never Infected,2,Never Infected,1
