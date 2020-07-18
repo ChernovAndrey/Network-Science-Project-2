@@ -122,3 +122,41 @@ Graphs were created in 4 ways considering routes:
 - DirwG - directed weighted
 
 graphsembedings contains 20dim vec for each country for 4 graphs
+
+### Correlations
+
+Correlations were made by each pair (Time Series, Policy), where Time Series refers to Confirmed, Deaths, Recovered. Data was cleared and absolute values changed to growth per day. 
+
+Kendall and Spearman coefficients were used as they are natural for discrete ordered variables w/o natural metric.
+
+File name structure:
+- numeric refers to the fact that for correlation was used array of growthes per day for each country; with_quantiles refers to the preprocessing of this array by dividing it into 5 discrete values which show between which quantiles the value lies (e.g. 0 means value of growth this day is between 0th and 0.20th quantile, 1 means value is between 0.20th and 0.40th quantile).
+- 0/7/14_shifted refers to the amount of lag which we consider while pairing Time Series Data and Policies Data. Idea: if the policy is applied now, effect may occure later.
+- STATS refers to the fact it is csv file with statistics on correlation coefficients (statistical description of coefficients of pairs by country)
+
+JSON contains info about correlations
+
+Structure:
+
+Country: Time Series name: Policy name: Coefficient name (Kendall, Spearman): 
+- coeff - value of the correlation coefficient
+- p_value - p-value of estimation
+
+csv containes statistics of coefficients and pvalues:
+
+Structure:
+
+- columns Time Series, Policy and Coefficient set up which particular correlation this row talks about
+- columns with statistics have name VAL_statistics_name (e.g. VAL_mean) if it is statistic on value; P_statistics_name (e.g. P_mean) if on pvalues
+
+List of statistics:
+- 'nobs'
+- 'min'
+- 'max'
+- 'mean'
+- 'variance'
+- '0.25_quantile'
+- 'median'
+- '0.75_quantile'
+- 'skewness'
+- 'kurtosis'
